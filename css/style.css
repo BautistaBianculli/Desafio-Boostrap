@@ -43,3 +43,31 @@
 .card-img-top{
     padding-top: 20px;
 }
+
+.card img{
+    height: 200px;
+}
+
+.accordion-button{
+    background-color: #41464b;
+    color: #dee2e6;
+}
+
+.accordion-button:not(.collapsed){
+    color: #0dcaf0;
+    background-color: #41464b;
+}
+
+.margin-accordion{
+    margin-top: 125px;
+    margin-bottom: 125px;
+}
+
+.rounded{
+    margin: 25px;
+}
+
+.container{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
