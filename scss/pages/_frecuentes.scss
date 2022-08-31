@@ -1,0 +1,18 @@
+.frecuentes {
+    .margin-accordion {
+        margin-top: 125px;
+        margin-bottom: 125px;
+
+        .accordion-item {
+            .accordion-button {
+                background-color: #41464b;
+                color: #dee2e6;
+
+                &:not(.collapsed) {
+                    color: #0dcaf0;
+                    background-color: #41464b;
+                }
+            }
+        }
+    }
+}

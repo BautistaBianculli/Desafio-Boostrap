@@ -1,0 +1,17 @@
+.services {
+    .row {
+        justify-content: space-around;
+        margin-top: 50px;
+        margin-bottom: 50px;
+
+        .card {
+            margin-bottom: 50px;
+            border-color: black;
+
+            .card-img-top {
+                padding-top: 20px;
+                height: 200px;
+            }
+        }
+    }
+}
