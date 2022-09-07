@@ -1,9 +1,9 @@
-header nav .navbar-collapse {
-  justify-content: space-around; }
-
 header nav .navbar-nav li {
   padding-left: 50px;
   font-size: 30px; }
+
+header nav .navbar-collapse {
+  justify-content: space-around; }
 
 .carousel-index #carouselExampleSlidesOnly img {
   display: block;

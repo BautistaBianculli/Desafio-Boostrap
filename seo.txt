@@ -1,0 +1,14 @@
+Etiqueta Meta:
+
+Index: perros, dog, mascotas, perro, limpieza perro 
+Contacto: perros, dog, mascotas, perro, servicios mascotas
+Frecuentes: faq ,perros, dog, mascotas, perro, preguntas frecuentes
+Galeria: faq ,perros, dog, mascotas, perro, fotos de perro
+Services: faq ,perros, dog, mascotas, perro, limpieza perro, paseo de perro, baño de perros, servicios mascotas, servicios perro 
+
+Etiqueta Descripcion:
+Index: Esta pagina es para un desafio de Coderhouse. Pasa a verla!
+Contacto: Contactanos para saber que otros servicios tenemos para tu perro!
+Galeria: Fotos de perros que fueron parte de nuestros servicios!
+Services: Mira los principales servicios que tenemos para tu perro!
+Frecuentes: Preguntas fecuentes acerca de los servicios

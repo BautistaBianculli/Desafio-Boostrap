@@ -1,5 +1,5 @@
 footer{
     .font-footer{
-        font-size: large;
+        @include fontFooter(large);
     }
 }
